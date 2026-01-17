@@ -1,0 +1,5 @@
+{
+  "name": "LLM Internals Simulator",
+  "description": "A high-fidelity simulation tool that reveals the hidden internal processing steps of a Large Language Model as it handles user queries.",
+  "requestFramePermissions": []
+}
